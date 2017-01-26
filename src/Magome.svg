@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="883px" height="542px" viewBox="0 0 883 542" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Magome</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="31.6671312%" cy="34.7340008%" fx="31.6671312%" fy="34.7340008%" r="100%" id="radialGradient-1">
+            <stop stop-color="#E5C7C7" offset="0%"></stop>
+            <stop stop-color="#F9F3F3" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="26.3906947" y="82.0207684" width="312.757808" height="221.905504"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="312.757808" height="221.905504" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <rect id="path-4" x="0" y="46.6282451" width="365.539197" height="42.1339564"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="365.539197" height="42.1339564" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <polygon id="path-6" points="1.58311674 50.0434568 65.6064523 0.151208001 318.000379 0.0990773942 367.730814 50.0434568"></polygon>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="366.147698" height="49.9443794" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="316.22456" y="78.5337487" width="254.026189" height="212.471443"></rect>
+        <mask id="mask-9" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="254.026189" height="212.471443" fill="white">
+            <use xlink:href="#path-8"></use>
+        </mask>
+        <rect id="path-10" x="294.789675" y="44.6458982" width="296.895958" height="40.3426791"></rect>
+        <mask id="mask-11" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="296.895958" height="40.3426791" fill="white">
+            <use xlink:href="#path-10"></use>
+        </mask>
+        <polygon id="path-12" points="296.075504 47.9159161 348.076137 0.144779565 553.073952 0.0948652315 593.465695 47.9159161"></polygon>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="297.390191" height="47.8210509" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+        <rect id="path-14" x="21.8986616" y="119.09865" width="133.637986" height="112.919003"></rect>
+        <mask id="mask-15" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="133.637986" height="112.919003" fill="white">
+            <use xlink:href="#path-14"></use>
+        </mask>
+        <rect id="path-16" x="333.533461" y="102.245067" width="133.637986" height="112.919003"></rect>
+        <mask id="mask-17" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="133.637986" height="112.919003" fill="white">
+            <use xlink:href="#path-16"></use>
+        </mask>
+        <rect id="path-18" x="35.374761" y="136.514019" width="106.124283" height="77.5264798"></rect>
+        <mask id="mask-19" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.124283" height="77.5264798" fill="white">
+            <use xlink:href="#path-18"></use>
+        </mask>
+        <rect id="path-20" x="347.00956" y="119.660436" width="106.124283" height="77.5264798"></rect>
+        <mask id="mask-21" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.124283" height="77.5264798" fill="white">
+            <use xlink:href="#path-20"></use>
+        </mask>
+        <path d="M155.8174,157.580997 L304.615997,157.580997" id="path-22"></path>
+        <mask id="mask-23" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="149.360102" height="1.68535826" fill="white">
+            <use xlink:href="#path-22"></use>
+        </mask>
+        <rect id="path-24" x="155.536648" y="132.581516" width="149.360102" height="8.98857736"></rect>
+        <mask id="mask-25" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="149.360102" height="8.98857736" fill="white">
+            <use xlink:href="#path-24"></use>
+        </mask>
+        <rect id="path-26" x="464.363926" y="102.245067" width="106.124283" height="8.98857736"></rect>
+        <mask id="mask-27" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.124283" height="8.98857736" fill="white">
+            <use xlink:href="#path-26"></use>
+        </mask>
+        <rect id="path-28" x="464.363926" y="128.087227" width="106.124283" height="8.98857736"></rect>
+        <mask id="mask-29" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.124283" height="8.98857736" fill="white">
+            <use xlink:href="#path-28"></use>
+        </mask>
+        <rect id="path-30" x="464.363926" y="158.985462" width="106.124283" height="8.98857736"></rect>
+        <mask id="mask-31" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="106.124283" height="8.98857736" fill="white">
+            <use xlink:href="#path-30"></use>
+        </mask>
+        <rect id="path-32" x="155.536648" y="176.400831" width="149.360102" height="8.98857736"></rect>
+        <mask id="mask-33" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="149.360102" height="8.98857736" fill="white">
+            <use xlink:href="#path-32"></use>
+        </mask>
+        <rect id="path-34" x="155.536648" y="221.343718" width="149.360102" height="8.98857736"></rect>
+        <mask id="mask-35" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="149.360102" height="8.98857736" fill="white">
+            <use xlink:href="#path-34"></use>
+        </mask>
+        <rect id="path-36" x="0" y="257.298027" width="304.89675" height="19.1007269"></rect>
+        <mask id="mask-37" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="304.89675" height="19.1007269" fill="white">
+            <use xlink:href="#path-36"></use>
+        </mask>
+        <radialGradient cx="70.859313%" cy="50%" fx="70.859313%" fy="50%" r="100%" id="radialGradient-38">
+            <stop stop-color="#B5EC45" offset="0%"></stop>
+            <stop stop-color="#45760E" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-39" points="0.466732631 141.278184 205.528801 97.034597 303.096257 12.9767424 303.844625 27.9020182 212.633796 103.714662 0.804851066 152.820578"></polygon>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="303.377893" height="139.843836" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <polygon id="path-41" points="2.24601657 198.524703 207.308085 154.281115 304.875541 70.2232606 305.623909 85.1485365 214.41308 160.96118 2.58413501 210.067097"></polygon>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="303.377893" height="139.843836" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <radialGradient cx="31.6671312%" cy="34.7340008%" fx="31.6671312%" fy="34.7340008%" r="100%" id="radialGradient-43">
+            <stop stop-color="#6D6A6A" offset="0%"></stop>
+            <stop stop-color="#F9F3F3" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-44" points="35.2464344 140.807568 29.7597196 225.140564 48.1568284 225.140564 51.3742963 135.390447"></polygon>
+        <mask id="mask-45" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21.6145767" height="89.7501176" fill="white">
+            <use xlink:href="#path-44"></use>
+        </mask>
+        <polygon id="path-46" points="97.5733942 116.088981 92.0866794 200.421976 110.483788 200.421976 113.701256 110.671859"></polygon>
+        <mask id="mask-47" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21.6145767" height="89.7501176" fill="white">
+            <use xlink:href="#path-46"></use>
+        </mask>
+        <polygon id="path-48" points="174.499462 87.8914867 169.012747 161.794393 187.409856 161.794393 190.627324 83.1443406"></polygon>
+        <mask id="mask-49" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21.6145767" height="78.6500519" fill="white">
+            <use xlink:href="#path-48"></use>
+        </mask>
+        <polygon id="path-50" points="247.495 55.9778695 242.008286 140.310865 260.405394 140.310865 263.622862 50.5607477"></polygon>
+        <mask id="mask-51" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21.6145767" height="89.7501176" fill="white">
+            <use xlink:href="#path-50"></use>
+        </mask>
+        <radialGradient cx="35.3625268%" cy="70.8396947%" fx="35.3625268%" fy="70.8396947%" r="100%" id="radialGradient-52">
+            <stop stop-color="#C7E866" offset="0%"></stop>
+            <stop stop-color="#96CB36" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Magome" transform="translate(1.000000, 0.000000)">
+            <polygon id="Path-8" stroke="#979797" fill="#114267" points="35.5578161 367.197549 347.311349 338.030349 569.082186 271.089076 590.323909 310.572867 339.267608 371.957558 36.2713165 406.17134"></polygon>
+            <polygon id="Path-11" stroke="#979797" fill="#D8D8D8" points="45.9959744 402.03258 0.0135182832 449.23704 91.8823393 504.126999 153.595487 540.518601 605.393608 459.959414 345.506532 365.67491"></polygon>
+            <g id="Casa" transform="translate(23.021670, 11.797508)" stroke="#644646" stroke-width="28">
+                <use id="Rectangle-2" mask="url(#mask-3)" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                <use id="Rectangle-2" mask="url(#mask-5)" fill="#644646" xlink:href="#path-4"></use>
+                <use id="Path-2" mask="url(#mask-7)" fill="#826969" xlink:href="#path-6"></use>
+            </g>
+            <g id="Casa" transform="translate(55.027406, 0.000000)" stroke="#644646" stroke-width="28">
+                <use id="Rectangle-2" mask="url(#mask-9)" fill="url(#radialGradient-1)" xlink:href="#path-8"></use>
+                <use id="Rectangle-2" mask="url(#mask-11)" fill="#644646" xlink:href="#path-10"></use>
+                <use id="Path-2" mask="url(#mask-13)" fill="#826969" xlink:href="#path-12"></use>
+                <use id="Rectangle-3" mask="url(#mask-15)" fill="url(#radialGradient-1)" xlink:href="#path-14"></use>
+                <use id="Rectangle-3-Copy" mask="url(#mask-17)" fill="url(#radialGradient-1)" xlink:href="#path-16"></use>
+                <use id="Rectangle-3" mask="url(#mask-19)" fill="#826969" xlink:href="#path-18"></use>
+                <use id="Rectangle-3-Copy-2" mask="url(#mask-21)" fill="#826969" xlink:href="#path-20"></use>
+                <use id="Line" mask="url(#mask-23)" fill="url(#radialGradient-1)" xlink:href="#path-22"></use>
+                <use id="Rectangle-4" mask="url(#mask-25)" fill="url(#radialGradient-1)" xlink:href="#path-24"></use>
+                <use id="Rectangle-4-Copy-4" mask="url(#mask-27)" fill="url(#radialGradient-1)" xlink:href="#path-26"></use>
+                <use id="Rectangle-4-Copy-5" mask="url(#mask-29)" fill="url(#radialGradient-1)" xlink:href="#path-28"></use>
+                <use id="Rectangle-4-Copy-6" mask="url(#mask-31)" fill="url(#radialGradient-1)" xlink:href="#path-30"></use>
+                <use id="Rectangle-4-Copy" mask="url(#mask-33)" fill="url(#radialGradient-1)" xlink:href="#path-32"></use>
+                <use id="Rectangle-4-Copy-2" mask="url(#mask-35)" fill="url(#radialGradient-1)" xlink:href="#path-34"></use>
+                <use id="Rectangle-4-Copy-3" mask="url(#mask-37)" fill="url(#radialGradient-1)" xlink:href="#path-36"></use>
+            </g>
+            <polygon id="Path-9" stroke="#979797" fill="#837F7F" points="38.6689106 365.241498 53.2204174 312.306631 349.943257 313.454526 487.834613 279.754731 494.862721 311.306144 110.178814 378.614781"></polygon>
+            <ellipse id="Oval-3-Copy-5" stroke="#39600F" fill="url(#radialGradient-38)" cx="85.9101338" cy="342.408619" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-6" stroke="#39600F" fill="url(#radialGradient-38)" cx="133.637986" cy="341.285047" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-7" stroke="#39600F" fill="url(#radialGradient-38)" cx="57.2734226" cy="352.520768" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-8" stroke="#39600F" fill="url(#radialGradient-38)" cx="323.426386" cy="326.116822" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-2" stroke="#39600F" fill="url(#radialGradient-38)" cx="313.880816" cy="342.408619" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-9" stroke="#39600F" fill="url(#radialGradient-38)" cx="256.607393" cy="342.408619" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-3" stroke="#39600F" fill="url(#radialGradient-38)" cx="388.560867" cy="313.195742" rx="28.6367113" ry="26.684839"></ellipse>
+            <ellipse id="Oval-3-Copy-4" stroke="#39600F" fill="url(#radialGradient-38)" cx="453.133843" cy="303.083593" rx="28.6367113" ry="26.684839"></ellipse>
+            <path d="M335.501281,254.762172 C332.436461,281.57903 321.110467,305.881463 304.135615,325.053259 L313.744774,335.725311 L291.837632,355.45059 L282.197524,344.744166 C264.995918,356.938556 244.658027,364.988995 222.633477,367.443699 L222.633477,382.576324 L193.154509,382.576324 L193.154509,367.347005 C165.166681,364.040013 139.943228,351.691325 120.476449,333.297702 L103.702997,347.372299 L84.7542824,324.790099 L101.505683,310.734005 C90.6565546,294.330468 83.4741645,275.282459 81.1289613,254.762172 L67.8721515,254.762172 L67.8721515,225.283204 L81.1289613,225.283204 C84.159436,198.766862 95.2669693,174.708906 111.926087,155.638577 L101.62805,144.201449 L123.535192,124.476169 L133.732341,135.80125 C150.862816,123.483954 171.154641,115.297836 193.154509,112.698372 L193.154509,98.3125649 L222.633477,98.3125649 L222.633477,112.601677 C251.134288,115.77818 276.810688,128.32507 296.521402,147.096387 L313.423997,132.913426 L332.372712,155.495626 L315.403309,169.734645 C326.096716,186.042239 333.176222,204.939174 335.501281,225.283204 L346.231322,225.283204 L346.231322,254.762172 L335.501281,254.762172 Z M320.512545,254.762172 C317.602028,277.20239 308.13622,297.581538 294.101987,313.909786 L240.845236,254.762172 L320.512545,254.762172 Z M320.512545,225.283204 C318.343909,208.562928 312.535917,192.986915 303.910465,179.378286 L249.203114,225.283204 L320.512545,225.283204 Z M96.1176974,225.283204 C98.9893515,203.142623 108.242403,183.008438 121.96852,166.791829 L174.634391,225.283204 L96.1176974,225.283204 Z M96.1176974,254.762172 C98.3091169,271.658114 104.216766,287.385624 112.992571,301.095362 L168.210316,254.762172 L96.1176974,254.762172 Z M272.154936,333.590742 C257.705029,343.498145 240.843531,350.135666 222.633477,352.438686 L222.633477,278.59159 L272.154936,333.590742 Z M143.766099,146.944867 C158.150534,136.920751 174.968715,130.155364 193.154509,127.716426 L193.154509,201.796254 L143.766099,146.944867 Z M285.034772,156.734814 C268.173263,141.148885 246.568233,130.633711 222.633477,127.60669 L222.633477,209.095718 L285.034772,156.734814 Z M131.969007,323.6543 C148.576697,338.868908 169.731205,349.187599 193.154509,352.32895 L193.154509,272.313568 L131.969007,323.6543 Z M207.051737,253.51889 C214.959546,253.51889 221.370092,246.532301 221.370092,237.913907 C221.370092,229.295512 214.959546,222.308923 207.051737,222.308923 C199.143927,222.308923 192.733381,229.295512 192.733381,237.913907 C192.733381,246.532301 199.143927,253.51889 207.051737,253.51889 Z" id="Molino" stroke="#0A0A09" stroke-width="5" fill="#E8B68A"></path>
+            <g id="escalas" transform="translate(325.672403, 151.120457)">
+                <use id="Path-3" stroke="#644646" mask="url(#mask-40)" stroke-width="28" fill="url(#radialGradient-1)" xlink:href="#path-39"></use>
+                <use id="Path-3" stroke="#644646" mask="url(#mask-42)" stroke-width="28" fill="url(#radialGradient-1)" xlink:href="#path-41"></use>
+                <use id="Path-4" stroke="#644646" mask="url(#mask-45)" stroke-width="28" fill="url(#radialGradient-43)" xlink:href="#path-44"></use>
+                <use id="Path-4-Copy" stroke="#644646" mask="url(#mask-47)" stroke-width="28" fill="url(#radialGradient-1)" xlink:href="#path-46"></use>
+                <polygon id="Path-7" stroke="#979797" fill="#D8D8D8" points="49.2405755 207.954564 95.8198906 201.121541 96.6946723 180.764217 158.210492 180.568473 158.15652 163.061804 210.317348 153.967606 210.468017 135.983953 272.273931 123.535116 272.804647 111.084029 373.813825 111.05028 352.893274 295.517159 273.54675 282.490091"></polygon>
+                <use id="Path-4-Copy-2" stroke="#644646" mask="url(#mask-49)" stroke-width="28" fill="url(#radialGradient-1)" xlink:href="#path-48"></use>
+                <use id="Path-4-Copy-3" stroke="#644646" mask="url(#mask-51)" stroke-width="28" fill="url(#radialGradient-1)" xlink:href="#path-50"></use>
+                <polygon id="Path-5" stroke="#979797" fill="#857C7C" points="47.7278521 234.596115 267.530862 303.458063 276.17003 284.077129 47.7278521 210.107996"></polygon>
+                <polygon id="Path-5-Copy" stroke="#979797" fill="#857C7C" points="94.332696 202.191735 296.126495 268.398093 304.057826 249.764564 94.332696 178.647975"></polygon>
+                <polygon id="Path-5-Copy-2" stroke="#979797" fill="#857C7C" points="156.098152 180.599324 316.518045 228.740514 322.823211 215.191358 156.098152 163.479751"></polygon>
+                <polygon id="Path-5-Copy-3" stroke="#979797" fill="#857C7C" points="208.879541 152.51002 346.648218 200.65121 352.063098 187.102054 208.879541 135.390447"></polygon>
+                <polygon id="Path-5-Copy-4" stroke="#979797" fill="#857C7C" points="270.083493 124.524725 383.54005 163.479751 387.999363 152.516006 270.083493 110.671859"></polygon>
+                <polygon id="Path-5-Copy-5" stroke="#979797" fill="#857C7C" points="303.773741 96.9972064 417.230299 135.952233 421.689611 124.988488 303.773741 83.1443406"></polygon>
+                <polygon id="Path-6" stroke="#979797" fill="#7A6F6F" points="270.083493 312.815051 277.580705 243.087085 307.163814 46.1131364 550.266461 44.3811007 554.982086 298.029601"></polygon>
+                <polygon id="Path-12" stroke="#979797" fill="#514949" points="273.097374 309.121834 307.705072 48.0275146 343.077079 69.4745827 317.864565 309.698595"></polygon>
+                <path d="M316.239878,53.3695347 C316.239878,53.3695347 334.810027,47.2389475 334.810027,32.4877314 C334.810027,17.7365154 359.880571,24.3983549 359.880571,24.3983549 L356.111576,-0.00014343548 L373.287983,15.2888434 L401.583484,10.5401643 L424.026388,23.5542177 L438.353615,24.6623515 L468.547635,18.0885108 L501.122515,5.0549021 L523.733678,25.8910763 L542.424413,49.1423302 L316.239878,53.3695347 Z" id="Path-10" fill="url(#radialGradient-52)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

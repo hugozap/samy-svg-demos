@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207px" height="235px" viewBox="0 0 207 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>robot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="120.108837%" fx="50%" fy="120.108837%" r="100%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#B8B8B8" offset="20.3956288%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <pattern id="pattern-2" width="15.6176471" height="15.6176471" x="-15.6176471" y="-15.6176471" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.325367647,0.325367647)"></use>
+        </pattern>
+        <image id="image-3" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAALNJREFUaAXtmEEKwzAMBOP+yf9/gB/V0uMexZBtA5ObwJLiGQuM1977fQ2+c84aLL/urv+a/Mw/rnUDv7aiAQ1AAh4hCBCnawAjhAUeb2B0r/nCuvtuM63/eANuAM4gTtcARggLaAACxOkawAhhAQ1AgDh9Te8evgth5lnAGUge/UgDfebZUQPJox9poM88O2ogefQj34X6zLOjM5A8+pEG+syzowaSRz/SQJ95dtRA8uhHHxtJG5lrDDU9AAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="robot" transform="translate(1.000000, -2.000000)">
+            <g id="headcont" transform="translate(75.000000, 28.000000)">
+                <g id="head">
+                    <ellipse id="oval11" stroke="#979797" fill="url(#radialGradient-1)" cx="25" cy="26" rx="25" ry="26"></ellipse>
+                    <ellipse id="Oval" fill="#42E15D" cx="25.5" cy="18.5" rx="18.5" ry="5.5"></ellipse>
+                    <ellipse id="Oval-6" fill-opacity="0.4" fill="#F9F5F5" cx="27" cy="18.5" rx="9" ry="3.5"></ellipse>
+                </g>
+            </g>
+            <g id="bodycont" stroke="#979797">
+                <g id="body">
+                    <path d="M43.2538981,102.52615 C54.7732797,74.7378724 139.795316,72.4464824 154.916916,99.899145 C170.038516,127.351808 101.796875,208.808594 101.796875,208.808594 C101.796875,208.808594 31.7345165,130.314427 43.2538981,102.52615 Z" id="Path-2" fill="url(#radialGradient-1)"></path>
+                    <g id="armr" transform="translate(130.000000, 0.000000)">
+                        <g id="rightarm">
+                            <path d="M15.0080581,93.5777506 L62.422641,57.486872 L65.3921806,62.1104358 C65.3921806,62.1104358 30.8790454,86.7074622 19.8786327,93.5777506 C8.87822002,100.448039 15.0080581,93.5777506 15.0080581,93.5777506 Z" id="Path-3" fill="#D8D8D8"></path>
+                            <ellipse id="Oval-3" fill="url(#radialGradient-1)" cx="14.5" cy="94" rx="14.5" ry="15"></ellipse>
+                            <polygon id="Path-4" fill="#D8D8D8" points="64.1992288 58.6039511 33.7661169 36.8051492 41.6125183 31.1567206"></polygon>
+                            <ellipse id="Oval-4" fill="url(#radialGradient-1)" cx="64.5" cy="58.5" rx="10.5" ry="9.5"></ellipse>
+                            <polygon id="Path-5" fill="#D8D8D8" transform="translate(33.067255, 16.552559) rotate(-11.000000) translate(-33.067255, -16.552559) " points="29.5550088 15.2537366 34.7247703 31.1051188 40.1345108 27.5335157 39.2754368 11.5123611 28.8874075 2 26 2.43272818"></polygon>
+                            <polygon id="Path-6" fill="#D8D8D8" transform="translate(24.294794, 19.432383) rotate(-12.000000) translate(-24.294794, -19.432383) " points="30.7346577 33.224158 23.4893328 5.02406659 18.708899 7.0817593 17.854931 17.8578399 25.9580534 33.8406999"></polygon>
+                            <ellipse id="Oval-4-Copy" fill="url(#radialGradient-1)" cx="38.5" cy="32.5" rx="10.5" ry="9.5"></ellipse>
+                        </g>
+                    </g>
+                    <g id="arml" transform="translate(37.500000, 54.500000) scale(-1, 1) translate(-37.500000, -54.500000) ">
+                        <path d="M15.0080581,93.5777506 L62.422641,57.486872 L65.3921806,62.1104358 C65.3921806,62.1104358 30.8790454,86.7074622 19.8786327,93.5777506 C8.87822002,100.448039 15.0080581,93.5777506 15.0080581,93.5777506 Z" id="Path-3" fill="#D8D8D8"></path>
+                        <ellipse id="Oval-3" fill="url(#radialGradient-1)" cx="14.5" cy="94" rx="14.5" ry="15"></ellipse>
+                        <polygon id="Path-4" fill="#D8D8D8" points="64.1992288 58.6039511 33.7661169 36.8051492 41.6125183 31.1567206"></polygon>
+                        <ellipse id="Oval-4" fill="url(#radialGradient-1)" cx="64.5" cy="58.5" rx="10.5" ry="9.5"></ellipse>
+                        <polygon id="Path-5" fill="#D8D8D8" transform="translate(33.067255, 16.552559) rotate(-11.000000) translate(-33.067255, -16.552559) " points="29.5550088 15.2537366 34.7247703 31.1051188 40.1345108 27.5335157 39.2754368 11.5123611 28.8874075 2 26 2.43272818"></polygon>
+                        <polygon id="Path-6" fill="#D8D8D8" transform="translate(24.294794, 19.432383) rotate(-12.000000) translate(-24.294794, -19.432383) " points="30.7346577 33.224158 23.4893328 5.02406659 18.708899 7.0817593 17.854931 17.8578399 25.9580534 33.8406999"></polygon>
+                        <ellipse id="Oval-4-Copy" fill="url(#radialGradient-1)" cx="38.5" cy="32.5" rx="10.5" ry="9.5"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="ruedacont" transform="translate(60.000000, 155.000000)">
+                <g id="rueda">
+                    <circle id="Oval-2" stroke="#1C1C1C" stroke-width="3" fill="url(#pattern-2)" cx="40" cy="40" r="40"></circle>
+                    <ellipse id="Oval-2" stroke="#979797" fill="url(#radialGradient-1)" cx="39.5238095" cy="40.5" rx="22.3809524" ry="22.5"></ellipse>
+                    <ellipse id="Oval-5" stroke="#979797" fill="#D8D8D8" cx="39.047619" cy="25.5" rx="3.80952381" ry="3.5"></ellipse>
+                    <ellipse id="Oval-5-Copy" stroke="#979797" fill="#D8D8D8" cx="40" cy="55.5" rx="3.80952381" ry="3.5"></ellipse>
+                    <ellipse id="Oval-5-Copy-2" stroke="#979797" fill="#D8D8D8" cx="55.2380952" cy="38.5" rx="3.80952381" ry="3.5"></ellipse>
+                    <ellipse id="Oval-5-Copy-3" stroke="#979797" fill="#D8D8D8" cx="23.8095238" cy="38.5" rx="3.80952381" ry="3.5"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
