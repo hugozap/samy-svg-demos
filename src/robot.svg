@@ -38,13 +38,15 @@
                         </g>
                     </g>
                     <g id="arml" transform="translate(37.500000, 54.500000) scale(-1, 1) translate(-37.500000, -54.500000) ">
-                        <path d="M15.0080581,93.5777506 L62.422641,57.486872 L65.3921806,62.1104358 C65.3921806,62.1104358 30.8790454,86.7074622 19.8786327,93.5777506 C8.87822002,100.448039 15.0080581,93.5777506 15.0080581,93.5777506 Z" id="Path-3" fill="#D8D8D8"></path>
-                        <ellipse id="Oval-3" fill="url(#radialGradient-1)" cx="14.5" cy="94" rx="14.5" ry="15"></ellipse>
-                        <polygon id="Path-4" fill="#D8D8D8" points="64.1992288 58.6039511 33.7661169 36.8051492 41.6125183 31.1567206"></polygon>
-                        <ellipse id="Oval-4" fill="url(#radialGradient-1)" cx="64.5" cy="58.5" rx="10.5" ry="9.5"></ellipse>
-                        <polygon id="Path-5" fill="#D8D8D8" transform="translate(33.067255, 16.552559) rotate(-11.000000) translate(-33.067255, -16.552559) " points="29.5550088 15.2537366 34.7247703 31.1051188 40.1345108 27.5335157 39.2754368 11.5123611 28.8874075 2 26 2.43272818"></polygon>
-                        <polygon id="Path-6" fill="#D8D8D8" transform="translate(24.294794, 19.432383) rotate(-12.000000) translate(-24.294794, -19.432383) " points="30.7346577 33.224158 23.4893328 5.02406659 18.708899 7.0817593 17.854931 17.8578399 25.9580534 33.8406999"></polygon>
-                        <ellipse id="Oval-4-Copy" fill="url(#radialGradient-1)" cx="38.5" cy="32.5" rx="10.5" ry="9.5"></ellipse>
+                        <g id="leftarm">
+                            <path d="M15.0080581,93.5777506 L62.422641,57.486872 L65.3921806,62.1104358 C65.3921806,62.1104358 30.8790454,86.7074622 19.8786327,93.5777506 C8.87822002,100.448039 15.0080581,93.5777506 15.0080581,93.5777506 Z" id="Path-3" fill="#D8D8D8"></path>
+                            <ellipse id="Oval-3" fill="url(#radialGradient-1)" cx="14.5" cy="94" rx="14.5" ry="15"></ellipse>
+                            <polygon id="Path-4" fill="#D8D8D8" points="64.1992288 58.6039511 33.7661169 36.8051492 41.6125183 31.1567206"></polygon>
+                            <ellipse id="Oval-4" fill="url(#radialGradient-1)" cx="64.5" cy="58.5" rx="10.5" ry="9.5"></ellipse>
+                            <polygon id="Path-5" fill="#D8D8D8" transform="translate(33.067255, 16.552559) rotate(-11.000000) translate(-33.067255, -16.552559) " points="29.5550088 15.2537366 34.7247703 31.1051188 40.1345108 27.5335157 39.2754368 11.5123611 28.8874075 2 26 2.43272818"></polygon>
+                            <polygon id="Path-6" fill="#D8D8D8" transform="translate(24.294794, 19.432383) rotate(-12.000000) translate(-24.294794, -19.432383) " points="30.7346577 33.224158 23.4893328 5.02406659 18.708899 7.0817593 17.854931 17.8578399 25.9580534 33.8406999"></polygon>
+                            <ellipse id="Oval-4-Copy" fill="url(#radialGradient-1)" cx="38.5" cy="32.5" rx="10.5" ry="9.5"></ellipse>
+                        </g>
                     </g>
                 </g>
             </g>

@@ -1,5 +1,5 @@
 import React from 'react'
-import {Samy, Proxy} from 'react-samy-svg'
+import {Samy, Proxy, Rotate} from 'react-samy-svg'
 import robot from './robot.svg'
 
 export default class Robot extends React.Component {
@@ -74,14 +74,15 @@ export default class Robot extends React.Component {
     const rightArmTransform = `rotate(${s.rightArmRotation}, ${s.shoulderr[0]}, ${s.shoulderr[1]})`
     const headTransform = `translate(0, ${s.coreOffsetY / 2})`
     const bodyTransform = `translate(0, ${s.coreOffsetY})`
+      console.log('Rotate:', Rotate)
     return (
-      <Samy path={robot} style={{width:'100%', height:'100vh'}}>
+      <Samy path={robot} style={{width: '100%', height: '100vh'}}>
         { (svg) => [
           <Proxy svg={svg} select='#rueda' transform={wheelTransform} />,
           <Proxy svg={svg} select='#rightarm' transform={rightArmTransform} />,
           <Proxy svg={svg} select='#body' transform={bodyTransform} />,
-          <Proxy svg={svg} select='#head' transform={headTransform} />
-
+          <Proxy svg={svg} select='#head' transform={headTransform} />,
+          <Rotate svg={svg} select='#leftarm' angle={s.rightArmRotation} originX={0} originY={0} />
         ]
 
         }

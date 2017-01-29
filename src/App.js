@@ -4,6 +4,7 @@ import './App.css'
 import ReactSVG from 'react-svg'
 import Magome from './Magome.svg'
 import Robot from './robot';
+import Reading from './reading';
 import SamyEx1 from './SamyEx1';
 
 class App extends Component {
@@ -17,7 +18,7 @@ class App extends Component {
   render () {
     return (
         <div>
-          <Robot/>
+          <Reading/>
         </div>
     )
   }
